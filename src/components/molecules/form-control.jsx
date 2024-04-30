@@ -1,4 +1,4 @@
-// import PropTypes from 'prop-types'
+
 
 import { Input } from "../atoms/input";
 import { Button } from "../atoms/button";
@@ -11,7 +11,3 @@ export function FormControl({ ...rest }) {
         </>
     )
 }
-
-// FormControl.propTypes = {
-//     labelText: PropTypes.string.isRequired,
-// }
